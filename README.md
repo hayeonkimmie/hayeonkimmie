@@ -3,7 +3,6 @@
 <!--
 **hayeonkimmie/hayeonkimmie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-Here are some ideas to get you started:
 
 <div align="center">
 <img src="" align="center" style="width: 100%" />
@@ -40,11 +39,6 @@ Here are some ideas to get you started:
 <a href="https://pytorch.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" alt="pytorch" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="33%">
-
-
-
-</td><td valign="top" width="33%">
 
 
 
