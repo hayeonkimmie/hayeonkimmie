@@ -7,6 +7,7 @@
 <div align="center"></div>  
 <br/>
 
+<div align="center">
 <table><tr><td valign="top" width="33%">
   
 ### <div align="center"> My Skill Set </div> 
@@ -22,7 +23,7 @@
 <a href="https://pytorch.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" alt="pytorch" height="50" /></a>  
 </div>
 </td></tr></table>  
-<br/>  
+<br/>  </div>
 
 ### <div align="center"> Connect with me </div> 
 <div align="center">
