@@ -1,18 +1,15 @@
 ### Hi there 👋
-
 <!--
 **hayeonkimmie/hayeonkimmie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-
 ### <div align="center">I'm Hayeon, currently learning Data Science 👨‍💻 </div>  
   
 <div align="center"></div>  
-
-<br/>  
+<br/>
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
-
+  
 ### Analysis Tools  
 <div align="center">  
 <a href="https://www.r-project.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/r.svg" alt="R" height="50" /></a>  
@@ -27,9 +24,7 @@
 </div>
 
 </td></tr></table>  
-
 <br/>  
-
 
 ## Connect with me  
 <div align="center">
@@ -50,9 +45,7 @@
 </a>  
 </div>  
   
-
 <br/>  
-
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=hayeonkimmie&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
