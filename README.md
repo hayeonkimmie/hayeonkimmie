@@ -10,7 +10,7 @@
 <div align="center">
 <table><tr><td valign="top" width="33%">
   
-### <div align="center"> My Skill Set </div> 
+## <div align="center"> My Skill Set </div> 
 <div align="center">  
 <a href="https://www.r-project.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/r.svg" alt="R" height="50" /></a>  
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
