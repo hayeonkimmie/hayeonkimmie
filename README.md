@@ -7,6 +7,7 @@
 <div align="center"></div>  
 <br/>
 
+<table><tr><td valign="top" width="33%">
   
 ### <div align="center"> My Skill Set </div> 
 <div align="center">  
