@@ -3,7 +3,7 @@
 **hayeonkimmie/hayeonkimmie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 ### <div align="center"> I'm a Data Engineer with experience in data analysis and SCM industry. 👨‍💻📊📦 </div>  
-### <div align="center"> Always learning — expanding my skills in backend development to build better data pipelines and systems. 💻 </div>
+### <div align="center"> learning backend development to build better data pipelines and systems. 💻 </div>
 
   
 <div align="center"></div>  
