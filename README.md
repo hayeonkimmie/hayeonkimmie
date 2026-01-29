@@ -1,7 +1,7 @@
 ### <div align="center">Hi there 👋 </div> 
-<!--
+<!---
 **hayeonkimmie/hayeonkimmie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+--->
 ### <div align="center"> I'm a Data Engineer with experience in data analysis and SCM industry. 👨‍💻📊📦 </div>  
 ### <div align="center"> learning backend development to build better data pipelines and systems. 💻 </div>
 
